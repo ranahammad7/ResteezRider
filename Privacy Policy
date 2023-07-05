@@ -1,41 +1,17 @@
 Privacy Policy:
-1.1 Location Information:
-1.1.1 ACCESS_FINE_LOCATION: The App requests permission to access precise location information from your device.
+The App requests permission to access precise location information from your device.
 We collect this data to provide location-based services, such as displaying nearby points of interest or offering personalized content.
-Your location data is solely used within the App and is not shared with any third parties.
-
-1.1.2 ACCESS_COARSE_LOCATION: The App requests permission to access approximate location information from your device. 
+The App requests permission to access approximate location information from your device. 
 We use this data to offer location-based services, such as providing general regional information or delivering relevant advertisements.
 Similar to ACCESS_FINE_LOCATION, this information is only used within the App and is not shared with third parties.
-
-1.1.3 FOREGROUND_SERVICE: The App requests permission to run foreground services to ensure certain functions can operate even when the App is not actively in use. 
+ The App requests permission to run foreground services to ensure certain functions can operate even when the App is not actively in use. 
 This permission is essential for providing uninterrupted location-based services and maintaining a seamless user experience.
-
-1.1.4 ACCESS_BACKGROUND_LOCATION: The App requests permission to access location information in the background.
+ The App requests permission to access location information in the background.
 We utilize this permission sparingly and solely for providing essential features such as geofencing or location-based notifications. 
 This data is never shared with any third parties and is solely utilized within the App.
-
-1.2 Contact Information:
-The App may request access to your contacts to enable certain features like sharing content or inviting friends. 
-We do not collect, store, or share your contact information without your explicit consent, and we only use this data within the App's functionalities.
-
-1.3 Gallery:
 The App may request access to your device's gallery to allow you to upload or access images for specific features.
-We respect your privacy, and we do not access, collect, or share your gallery content without your explicit consent.
-Any images you upload or access within the App are solely used for the intended purposes.
-
-1.4 Camera:
 The App may request access to your device's camera to enable features that require image or video capturing. 
 We do not use your camera for any unauthorized purposes, and we do not collect or share any media captured by your device's camera without your explicit consent.
-
-Data Security:
-We prioritize the security of your personal information and have implemented industry-standard measures to protect it from unauthorized access, disclosure, alteration, or destruction. 
-However, no method of transmission over the internet or electronic storage is completely secure, and we cannot guarantee absolute security.
-
-Data Sharing:
-We do not sell, trade, or rent your personal information to third parties. 
-We may share your data with trusted third-party service providers that help us deliver and improve our services, subject to confidentiality obligations. 
-We ensure that these service providers comply with appropriate data protection standards.
 
 
 
